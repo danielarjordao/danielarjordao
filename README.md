@@ -33,4 +33,7 @@ Function that reads a line ending with a newline character from a file descripto
 ### [so_long](https://github.com/danielarjordao/so_long)
 This project is a small 2D game with minilibx.
 
+
+
+
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
