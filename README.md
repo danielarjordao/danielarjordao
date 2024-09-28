@@ -30,4 +30,7 @@ Introduction to the basics of system administration.
 ### [get_next_line](https://github.com/danielarjordao/get_next_line.git)
 Function that reads a line ending with a newline character from a file descriptor.
 
+### [so_long](https://github.com/danielarjordao/so_long)
+This project is a small 2D game with minilibx.
+
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
