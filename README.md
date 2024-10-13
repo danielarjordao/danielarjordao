@@ -36,7 +36,7 @@ This project is a small 2D game with minilibx.
 ### [push_swap](https://github.com/danielarjordao/push_swap)
 Sorting data on a stack with a limited set of instructions to optimize the number of moves.
 
-### [Minitalk](https://github.com/danielarjordao/minitalk)
+### [minitalk](https://github.com/danielarjordao/minitalk)
 A small data exchange program using UNIX signals to transmit messages between a client and server.
 
 
