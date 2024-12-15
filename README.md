@@ -40,7 +40,7 @@ Sorting data on a stack with a limited set of instructions to optimize the numbe
 A small data exchange program using UNIX signals to transmit messages between a client and server.
 
 ### [minishell](https://github.com/danielarjordao/minishell)
-The objective of this project is for you to create a simple shell.
+A simple shell implementation that supports basic functionalities.
 
 
 
