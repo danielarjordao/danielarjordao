@@ -42,6 +42,12 @@ A small data exchange program using UNIX signals to transmit messages between a 
 ### [minishell](https://github.com/danielarjordao/minishell)
 A simple shell implementation that supports basic functionalities.
 
+### [Philosophers](https://github.com/danielarjordao/Philosophers)
+This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.
+
+
+
+
 
 
 ## Thanks for visiting my profile! 
