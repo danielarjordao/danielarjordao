@@ -45,10 +45,7 @@ A simple shell implementation that supports basic functionalities.
 ### [Philosophers](https://github.com/danielarjordao/Philosophers)
 This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.
 
-
-
-
-
+<br><br><br><br><br><br><br>
 
 ## Thanks for visiting my profile! 
 ## Feel free to check out my repositories and connect with me.
