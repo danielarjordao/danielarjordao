@@ -1,6 +1,8 @@
 # Hi there, I'm Daniela Ramos Jordão 👋
 
-Software developer student transitioning from accounting. Currently, I am a student at [42 Porto](https://www.42porto.com). I am passionate about learning and building innovative tech solutions. Here you will find some of the projects I am working on and contributing to.
+I'm a Software Developer student at 42 Porto with a background in Accounting. I’m passionate about problem-solving, programming, and building efficient solutions.
+At 42 Porto, I’ve been working on projects in C programming while gaining experience in collaborative work, project management, debugging, and version control with Git/GitHub.
+Here, you’ll find some of the projects I’m developing and contributing to. Always learning and exploring new technologies. 
 
 ## About Me
 
