@@ -34,7 +34,7 @@ Here, you’ll find some of the projects I’m developing and contributing to. A
 | 3         | [minishell](https://github.com/danielarjordao/minishell)     | C         | A shell that parses, executes commands, and manages pipes.      |
 | 3         | [Philosophers](https://github.com/danielarjordao/Philosophers)  | C         | Solves concurrency with threads and mutexes.                    |
 | 4         | [cub3D](https://github.com/danielarjordao/cub3D)         | C         | 3D raycasting engine inspired by early FPS games.               |
-| 4         | [NetPractice](git@github.com:danielarjordao/NetPractice.git)   | —        | Practical exercise to explore basic networking concepts.        |
+| 4         | [NetPractice](https://github.com/danielarjordao/NetPractice.git)   | —        | Practical exercise to explore basic networking concepts.        |
 
 <br><br><br>
 
