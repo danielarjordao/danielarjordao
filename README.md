@@ -18,54 +18,23 @@ Here, you’ll find some of the projects I’m developing and contributing to. A
 
 ## Projects
 
-### 🎯 42 Cursus Projects by Milestone
+### 42 Cursus Projects Overview
 
 ---
 
-#### 🟣 Milestone 0
+| Milestone | Projeto       | Linguagem | Descrição                                                      |
+|-----------|---------------|-----------|----------------------------------------------------------------|
+| 0         | Libft         | C         | Implementation of basic C standard library functions.          |
+| 1         | ft_printf     | C         | Recreation of `printf` with formatted string output.           |
+| 1         | get_next_line | C         | Reads a line from a file descriptor.                            |
+| 1         | Born2beroot   | —         | Basics of system administration and server setup.              |
+| 2         | push_swap     | C         | Sorts data using a limited set of stack operations.             |
+| 2         | so_long       | C         | A small 2D game built with MiniLibX.                            |
+| 2         | minitalk      | C         | Sends messages between processes using UNIX signals.           |
+| 3         | minishell     | C         | A shell that parses, executes commands, and manages pipes.      |
+| 3         | Philosophers  | C         | Solves concurrency with threads and mutexes.                    |
+| 4         | cub3D         | C         | 3D raycasting engine inspired by early FPS games.               |
 
-| Project                                                                 | Language | Description                                                  |
-|-------------------------------------------------------------------------|----------|--------------------------------------------------------------|
-| [Libft](https://github.com/danielarjordao/Libft.git)                   | C        | Implementation of basic C standard library functions.        |
-
----
-
-#### 🔵 Milestone 1
-
-| Project                                                                 | Language | Description                                                  |
-|-------------------------------------------------------------------------|----------|--------------------------------------------------------------|
-| [ft_printf](https://github.com/danielarjordao/ft_printf.git)           | C        | Recreation of `printf` with formatted string output.         |
-| [get_next_line](https://github.com/danielarjordao/get_next_line.git)   | C        | Reads a line from a file descriptor.                         |
-| [Born2beroot](https://github.com/danielarjordao/Born2beroot.git)       | *—*      | Basics of system administration and server setup.            |
-
----
-
-#### 🟢 Milestone 2
-
-| Project                                                                 | Language | Description                                                  |
-|-------------------------------------------------------------------------|----------|--------------------------------------------------------------|
-| [push_swap](https://github.com/danielarjordao/push_swap.git)           | C        | Sorts data using a limited set of stack operations.          |
-| [so_long](https://github.com/danielarjordao/so_long.git)               | C        | A small 2D game built with MiniLibX.                         |
-| [minitalk](https://github.com/danielarjordao/minitalk.git)             | C        | Sends messages between processes using UNIX signals.         |
-
----
-
-#### 🟠 Milestone 3
-
-| Project                                                                 | Language | Description                                                  |
-|-------------------------------------------------------------------------|----------|--------------------------------------------------------------|
-| [minishell](https://github.com/danielarjordao/minishell.git)           | C        | A shell that parses, executes commands, and manages pipes.   |
-| [Philosophers](https://github.com/danielarjordao/Philosophers.git)     | C        | Solves concurrency with threads and mutexes.                 |
-
----
-
-#### 🔴 Milestone 4
-
-| Project                                                                 | Language | Description                                                  |
-|-------------------------------------------------------------------------|----------|--------------------------------------------------------------|
-| [cub3D](https://github.com/danielarjordao/cub3D.git)                   | C        | 3D raycasting engine inspired by early FPS games.            |
-
----
 
 <br><br><br>
 
