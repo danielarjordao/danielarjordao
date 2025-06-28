@@ -46,4 +46,5 @@ Here, you’ll find some of the projects I’m developing and contributing to. A
 <br><br><br>
 
 ## Thanks for visiting my profile!  
-## Feel free to check out my repositories and connect with me.
+Feel free to check out my repositories and connect with me.
+
