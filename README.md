@@ -19,9 +19,9 @@ Here, you’ll find some of the projects I’m developing and contributing to. A
 
 ## Projects
 
-# 42 Cursus Projects Overview (Newest First)
+# 42 Cursus Projects Overview
 
-| Milestone | Projeto                                      | Linguagem | Descrição                                                      |
+| Milestone | Project                                     | Language  | Description                                                    |
 |-----------|---------------------------------------------|-----------|----------------------------------------------------------------|
 | 4 / 5     | [CPP](https://github.com/danielarjordao/CPP.git) | C++      | 42 C++ Modules Repository and concepts overview.               |
 | 5         | [→CPP Module 05](https://github.com/danielarjordao/CPP/tree/main/CPP%20Module%2005) | C++      | Introduction to exception handling with try, catch, and throw. |
