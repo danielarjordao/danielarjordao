@@ -1,17 +1,19 @@
-# Hi there, I'm Daniela Ramos Jordão 👋
+# Hi there, I'm Daniela Ramos Jordão
 
-After several years working in accounting, I realized that what truly drives me is solving problems and improving systems. This analytical and structured mindset naturally led me to software development, where I apply my expertise to build scalable and efficient solutions.
-I’m currently deepening my skills at 42 Porto, a project-based, peer-to-peer programming school, through hands-on experience in C, C++, system logic, memory management, and computer science fundamentals.
-Here, you’ll find some of the projects I’m developing and contributing to. Always learning, always exploring.
+Software developer with a foundation in accounting and business operations.  
+I enjoy building reliable and efficient systems, understanding how things work under the hood, and improving real workflows through technology.
+Currently advancing my technical skills through the 42 Porto program, with hands-on experience in C, C++  and software architecture fundamentals.
+
+Here you’ll find some of the projects I’ve built as part of my journey in systems programming and computer science — always learning, always improving.
+
 
 
 ## About Me
 
-- 🌍 Based in Porto, Portugal
-- 📚 Student at [42 Porto](https://www.42porto.com)
-- 💼 Background in Accounting
-- 🌱 Currently focusing on learning C/C++ programming
-- 📫 How to reach me: [danielaramosjordao@gmail.com](mailto:danielaramosjordao@gmail.com)
+- Based in Porto, Portugal
+- Software Developer
+- Student at [42 Porto](https://www.42porto.com)
+- Contact: [danielaramosjordao@gmail.com](mailto:danielaramosjordao@gmail.com)
   
 ## Connect with Me
 
@@ -45,5 +47,5 @@ Here, you’ll find some of the projects I’m developing and contributing to. A
 <br><br><br>
 
 ## Thanks for visiting my profile!  
-Feel free to check out my repositories and connect with me.
+Feel free to explore my repositories and connect with me.
 
