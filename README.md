@@ -4,7 +4,7 @@ Software developer with a foundation in accounting and business operations.
 I enjoy building reliable and efficient systems, understanding how things work under the hood, and improving real workflows through technology.
 Currently advancing my technical skills through the 42 Porto program, with hands-on experience in C, C++  and software architecture fundamentals.
 
-Here you’ll find some of the projects I’ve built as part of my journey in systems programming and computer science — always learning, always improving.
+Here you’ll find some of the projects I’ve built as part of my journey in systems programming and computer science.
 
 
 
