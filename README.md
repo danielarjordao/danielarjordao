@@ -1,15 +1,6 @@
 # Hi there, I'm Daniela Ramos Jordão
 
-Software developer with a background in accounting and business operations, currently building a strong technical foundation in systems programming, backend development, and data.
-
-I’m particularly interested in understanding how systems work under the hood and applying technology to improve real business workflows, automation, and decision-making processes.
-
-Currently developing my skills through:
-
-* The 42 Porto program, focused on C, C++, systems programming, networking, and software architecture.
-* The UpSkill program, specializing in JavaScript, databases, and ServiceNow.
-
-This profile works as a structured overview of my technical journey and repositories.
+<br>
 
 ## About Me
 
@@ -18,6 +9,8 @@ This profile works as a structured overview of my technical journey and reposito
 * Currently enrolled in: [42 Porto](https://www.42porto.com) & UpSkill Program
 * Contact: [danielaramosjordao@gmail.com](mailto:danielaramosjordao@gmail.com)
 * [LinkedIn](https://linkedin.com/in/daniela-ramos-jordao/)
+
+<br>
 
 ## Skills
 
@@ -32,7 +25,6 @@ This profile works as a structured overview of my technical journey and reposito
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -43,6 +35,21 @@ This profile works as a structured overview of my technical journey and reposito
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+
+<br>
+
+## Background & Focus
+
+Software developer with a background in accounting and business operations, currently building a strong technical foundation in systems programming, backend development, and data.
+
+I’m particularly interested in understanding how systems work under the hood and applying technology to improve real business workflows, automation, and decision-making processes.
+
+Currently developing my skills through:
+
+* The 42 Porto program, focused on C, C++, systems programming, networking, and software architecture.
+* The UpSkill program, specializing in JavaScript, databases, and ServiceNow.
+
+This profile works as a structured overview of my technical journey and repositories.
 
 <br>
 
