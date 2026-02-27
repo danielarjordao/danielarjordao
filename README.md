@@ -59,6 +59,7 @@ Practical applications focused on web development, data handling, and business-o
 
 | Project                      | Technologies            | Description                                                                                                             |
 | ---------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [**Dashboard Financeiro Pessoal em TypeScript**](https://github.com/danielarjordao/dashboard-financeiro-pessoal-ts) | HTML / CSS / TypeScript | Web application for tracking daily personal finances with structured data handling.                                     |
 | [**Dashboard Financeiro Pessoal**](https://github.com/danielarjordao/dashboard-financeiro-pessoal) | HTML / CSS / JavaScript | Web application for tracking daily personal finances with structured data handling.                                     |
 | [**To-Do List**](https://github.com/danielarjordao/to-do-list)                   | HTML / CSS / JavaScript | Task management app with dynamic DOM manipulation and local storage usage.                                              |
 | [**Portfolio 2026**](https://github.com/danielarjordao/portfolio-2026)               | HTML / CSS              | Source code for my personal portfolio website.                                                                          |
