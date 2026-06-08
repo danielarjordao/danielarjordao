@@ -69,19 +69,6 @@ Practical applications focused on web development, data handling, and business-o
 
 <br>
 
-## Study & Academic Repositories
-
-Structured coursework and study repositories developed during the UpSkill program.
-
-| Repository                | Focus Area  | Description                                                                     |
-| ------------------------- | ----------- | ------------------------------------------------------------------------------- |
-| [**Programação em JavaScript**](https://github.com/danielarjordao/programacao-em-javascript) | JavaScript  | Core concepts, DOM manipulation, asynchronous programming, and browser storage. |
-| [**Bases de Dados**](https://github.com/danielarjordao/bases-de-dados)             | SQL & NoSQL | Database fundamentals, ER modeling, SQL Server, and introduction to MongoDB.    |
-| [**Algoritmia e Programação**](https://github.com/danielarjordao/algoritmia-e-programacao) | Algorithms  | Programming fundamentals, data structures, and problem-solving approaches.      |
-| [**Programação Funcional**](https://github.com/danielarjordao/iniciacao-a-programacao-funcional)     | Haskell     | Functional programming concepts, recursion, and lazy evaluation.                |
-
-<br>
-
 ## 42 Cursus Projects Overview
 
 Projects developed within the 42 curriculum, focused on programming, systems, networking, and software design principles.
