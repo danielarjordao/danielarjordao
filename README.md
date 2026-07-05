@@ -5,7 +5,7 @@
 ## About Me
 
 * Based in Porto, Portugal
-* Current Role: ServiceNow Developer Trainee
+* Current Role: ServiceNow Developer
 * Education: Computer Science at [42 Porto](https://www.42porto.com) & UpSkill Program in ServiceNow & JavaScript
 * Areas of Interest: Backend, Data, Automation, and Business Process Optimization
 * Contact: [danielaramosjordao@gmail.com](mailto:danielaramosjordao@gmail.com)
@@ -27,7 +27,7 @@
 
 Software developer with a strong background in accounting and business operations, bridging the gap between technical implementation and business needs. I’m currently building my expertise in systems programming, backend development, and enterprise automation.
 
-As a ServiceNow Developer Trainee, I apply my understanding of business processes to develop and automate real-world enterprise workflows. I’m particularly interested in understanding how systems work under the hood and applying technology to improve decision-making processes.
+As a ServiceNow Developer, I apply my understanding of business processes to develop and automate real-world enterprise workflows. I’m particularly interested in understanding how systems work under the hood and applying technology to improve decision-making processes.
 
 <br>
 
